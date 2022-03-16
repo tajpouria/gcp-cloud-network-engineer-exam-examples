@@ -2,3 +2,7 @@
 
 A set of practical examples that covers the [Professional Cloud Network Engineer](https://cloud.google.com/certification/guides/cloud-network-engineer) exam objectives.
 
+### CLoud VPN Static routing
+
+![](cloud-vpn-static-routing/Capture.PNG)
+![](cloud-vpn-static-routing/Capture1.PNG)
