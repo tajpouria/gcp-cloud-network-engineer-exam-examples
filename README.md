@@ -6,3 +6,7 @@ A set of practical examples that covers the [Professional Cloud Network Engineer
 
 ![](cloud-vpn-static-routing/Capture.PNG)
 ![](cloud-vpn-static-routing/Capture1.PNG)
+
+### CLoud VPN Dynamic routing
+
+![](cloud-vpn-dynamic-routing/Capture.PNG)
