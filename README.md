@@ -18,3 +18,7 @@ A set of practical examples that covers the [Professional Cloud Network Engineer
 ### VPC Peering
 
 ![](vpc-peering/Capture.PNG)
+
+### VPC Options
+
+![](vpc-options/Capture.PNG)
