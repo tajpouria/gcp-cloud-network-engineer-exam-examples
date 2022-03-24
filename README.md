@@ -22,3 +22,7 @@ A set of practical examples that covers the [Professional Cloud Network Engineer
 ### VPC Options
 
 ![](vpc-options/Capture.PNG)
+
+### Cloud NAT
+
+![](cloud-nat/Capture.PNG)
